@@ -2,6 +2,9 @@
 
 An Arduino Sketch to map ArtNet Input to WS2801 LEDs
 
+Some of the code is taken from the EtherCard library examples (below)
+and this arduino artnet sender/receiver package: https://vvvv.org/contribution/artnet-arduino-set-v3.1-0
+
 # To Use:
 
 Connect your Arduino to your ENC28J60-Based Ethernet Module and WS2801 LED Strip
